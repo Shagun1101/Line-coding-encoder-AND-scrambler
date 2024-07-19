@@ -1,0 +1,1 @@
+Implemented Line coding encoder AND scrambler with DIGITAL DATA GENERATOR . For encoding you need to provide user with various options (NRZ-L, NRZ-I, Manchester, Differential Manchester, AMI). If user asks for AMI, you need to pop a query whether scrambling is needed or not
